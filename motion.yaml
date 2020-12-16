@@ -1,7 +1,7 @@
 blueprint:
   name: Motion-activated Light with Elevation
   domain: automation
-  source_url: 
+  source_url: https://github.com/rwursten/HASSpub/blob/main/motion.yaml
   input:
     motion_entity:
       name: Motion Sensor
